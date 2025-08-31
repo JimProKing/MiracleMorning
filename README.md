@@ -1,5 +1,5 @@
 # morning
 
-A new Flutter project.
+- 기상시간 관리해주는 모바일 앱
 
 버그 일부 개선 필요
